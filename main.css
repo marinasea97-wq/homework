@@ -29,7 +29,11 @@ h1 {
   font-size: 240%;
 }
 /* Part 3 */
-div span {
+div {
+  font-size: 1.6em;
+}
+
+span {
   font-size: 1.6em;
 }
 
