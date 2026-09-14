@@ -9,7 +9,7 @@
     padding: 1em;
   }
 p {
-  font-size: clamp(16px, calc(9.333px + 1.389vw), 48px);
+  font-size: clamp(16px, calc(9px + 1.4vw), 48px);
 }
 
 .container {
