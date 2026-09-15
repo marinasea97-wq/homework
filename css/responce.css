@@ -9,7 +9,7 @@
     padding: 1em;
   }
 p {
-  font-size: clamp(16px, calc(9px + 1.4vw), 48px);
+  font-size: round(nearest, clamp(16px, calc(9.3333px + 1.38888vw), 48px), 1px);
 }
 
 .container {
