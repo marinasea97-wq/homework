@@ -31,6 +31,20 @@ article div:nth-of-type(8) {
 article div:nth-of-type(9) {
     background-color: #31c9c2;
 }
+
+article div:nth-of-type(10) {
+    background-color: #31c98f;
+}
+
+article div:nth-of-type(11) {
+    background-color: #31c95c;
+}
+
+article div:nth-of-type(12) {
+    background-color: #38c931;
+}
+
+
 article {
   margin: 2vw 0;
 }
@@ -87,9 +101,9 @@ article div {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: start;
-  justify-items: stretch;
-
+  justify-items: start;
 }
+
 .grid11 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
